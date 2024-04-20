@@ -1,7 +1,7 @@
  <img alt="" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <h1 align="center">Hi 👋, I'm Amara Saffa</h1>
 <h3 align="center">A passionate full-stack developer from Sierra Leone</h3>
-<img align="right" width="400" src="https://outlane.co/now/new-shot-programmer-animation/" alt="coding">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarasaffa001&label=Profile%20views&color=0e75b6&style=flat" alt="amarasaffa001" /> </p>
 
